@@ -199,3 +199,6 @@ abrir a pasta package.json - retirar o ^  do "parcel": "1.12.3",
 abrir a pasta index.tsx importar o componente 
 
 fechar e instalar o NPM INSTALL e posterio NPM START 
+
+# Conectando-se ao NPM
+npm login
