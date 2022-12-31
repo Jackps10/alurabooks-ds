@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks1-ds",
+  "name": "alurabooks2-ds",
   "author": "Jackson Paulo",
   "module": "dist/alurabooks.esm.js",
   "size-limit": [

@@ -202,3 +202,4 @@ fechar e instalar o NPM INSTALL e posterio NPM START
 
 # Conectando-se ao NPM
 npm login
+npm publish --access=public
